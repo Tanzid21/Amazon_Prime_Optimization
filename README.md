@@ -1,7 +1,7 @@
 # Amazon_Prime_Optimization
 This project focuses on analyzing Amazon Prime Video's content library to optimize audience engagement and satisfaction. By identifying trends in genres, ratings, content types, and geographical preferences, the project aims to provide data-driven recommendations.
 
-# Business Probelm: 
+# Business Problem: 
 
 Amazon Prime Video faces the challenge of optimizing its extensive content library to improve audience engagement and satisfaction. The platform must address key issues such as identifying trends in content consumption, including popular genres, ratings, and content types (movies vs. TV shows), while also tailoring offerings to specific geographic regions. With an ever-growing catalog, balancing the addition of new content with user preferences, cost considerations, and market trends is essential to maintaining competitiveness in the streaming industry.
 
