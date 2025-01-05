@@ -5,7 +5,7 @@ This project focuses on analyzing Amazon Prime Video's content library to optimi
 
 Amazon Prime Video faces the challenge of optimizing its extensive content library to improve audience engagement and satisfaction. The platform must address key issues such as identifying trends in content consumption, including popular genres, ratings, and content types (movies vs. TV shows), while also tailoring offerings to specific geographic regions. With an ever-growing catalog, balancing the addition of new content with user preferences, cost considerations, and market trends is essential to maintaining competitiveness in the streaming industry.
 
-# Data Requirements
+# Data Description:
 To tackle these challenges, specific data is crucial for effective analysis. This includes detailed content metadata such as titles, genres, types, durations, release years, and descriptions. Additionally, geographical data showing content availability by region, user engagement metrics (e.g., ratings and viewership), and historical trends in content production and release are necessary to identify growth patterns. If available, data on production or acquisition costs can further help evaluate the return on investment for various types of content across different regions.
 
 
