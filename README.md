@@ -12,11 +12,24 @@ To address these challenges effectively, Amazon Prime Video requires a comprehen
 Additionally, geographical data is required to assess content availability by region and to understand regional variations in user demand. Metrics related to user engagement, such as ratings, viewership, and browsing behavior, are crucial for gauging content performance and tailoring recommendations. Historical data on content production and release trends can help identify growth patterns over time and forecast future demands. If available, financial data, such as production or acquisition costs, can further enhance decision-making by enabling an evaluation of return on investment for different types of content in various regions. By leveraging this comprehensive dataset, Prime Video can implement data-driven strategies to optimize its content offerings and improve audience satisfaction.
 
 
+# Data Analysis:
 
+![image](https://github.com/user-attachments/assets/76fc981c-1c95-481b-b7ed-2c9ed07e2c48)
+The histogram illustrates the distribution of content release years in the dataset, revealing a dramatic increase in titles released from the early 2000s to the 2020s. This upward trend highlights the growing focus on contemporary content, with the majority of titles produced in the last two decades. The smooth KDE line further emphasizes the concentration of releases in recent years, while older titles, especially those before the 1980s, represent a minimal fraction. This suggests that the platform prioritizes modern and recent content to cater to contemporary audience preferences.
 
+![image](https://github.com/user-attachments/assets/026fdebe-8347-4e66-b844-dba29fe6dba4)
+The bar plot highlights the frequency of content ratings, showcasing the variety of programming available on the platform. Ratings such as "13+" and "16+" dominate, indicating a strong emphasis on content that appeals to younger audiences and families. The presence of diverse ratings, including "ALL," "R," and "18+," demonstrates the platform’s effort to cater to a broad demographic, ranging from children to mature viewers. This balance ensures that the platform remains inclusive, with significant offerings for all age groups and preferences.
 
+![image](https://github.com/user-attachments/assets/6a4973d1-b797-4096-88f3-a5be851e45ca)
+The scatter plot depicts the relationship between the release year and the duration of titles, with differentiation between Movies and TV Shows through color coding. The plot reveals that movies (orange dots) tend to have a wider range of durations, while TV shows (blue dots) generally cluster around shorter durations due to episodic formatting. Over time, particularly from the 2000s onward, the density of content production has increased dramatically, with a more concentrated cluster in modern release years. This visualization highlights the platform's focus on contemporary, varied-duration content, catering to diverse viewer preferences.
 
+![image](https://github.com/user-attachments/assets/2daeafaa-13d4-4cba-bfee-dcf30efdca7f)
+The bar plot showcases the top 10 countries producing content on the platform. The United States leads significantly, followed by India and the United Kingdom, indicating a strong representation of Western and Indian cinema and TV. Canada and Spain also appear prominently, suggesting contributions from diverse regions. Interestingly, some entries represent collaborations between countries, reflecting the growing trend of co-productions. This chart underscores the platform's global reach and its focus on sourcing content from major production hubs worldwide.
 
+![image](https://github.com/user-attachments/assets/dd6d7133-cf3f-4741-81dd-df454885ec00)
+
+![image](https://github.com/user-attachments/assets/0f35ea33-853b-4e2e-bb35-eb776c8daf4f)
+The line plot illustrates the trends in content production over the years for Movies and TV Shows. The chart shows a steady increase in both categories starting from the mid-20th century, with a dramatic surge in production from the early 2000s onwards, especially for movies. By 2020, the production of movies far surpasses TV shows, reflecting a strong emphasis on feature-length content in recent years. This rapid growth highlights the platform’s focus on expanding its library with modern titles to meet the growing demand for on-demand entertainment.
 
 # Dashbaord 
 ![image](https://github.com/user-attachments/assets/ffc2616a-8356-4945-a67a-3aa295bc6237)
